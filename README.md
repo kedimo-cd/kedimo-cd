@@ -11,7 +11,7 @@
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
   <img align="center" alt="jupyter" height="50" width="60" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-   <img align="center" alt="sql" height="50" width="60" 
+   <img align="center" alt="sql" height="60" width="70" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"/>
  
        
