@@ -19,9 +19,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordma
 
 <div align="center">
   <a href="https://github.com/kedimo-cd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kedimo-cd&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kedimo-cd&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true"/>
      <br> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedimo-cd&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedimo-cd&layout=compact&langs_count=7&theme=flag-india"/>
     
   <br> 
     
