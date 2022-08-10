@@ -12,12 +12,12 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedimo-cd&layout=compact&langs_count=7&theme=dark"/>
     
  <div>
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="r" height="30" width="40" 
+  <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="r" height="50" width="60" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
-  <img align="center" alt="jupyter" height="30" width="40" 
+  <img align="center" alt="jupyter" height="50" width="60" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-   <img align="center" alt="sql" height="30" width="40" 
+   <img align="center" alt="sql" height="50" width="60" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"/>
  
        
