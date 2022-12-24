@@ -2,7 +2,7 @@
 
 
 ### Sobre Mim
-
+ 
 Meu nome é **Kédimo Alcântara**,
 Sou Cientista de Dados, apaixonado por resolver problemas de negócio usando meus conhecimentos de Negócio, estatística e programação.
 Atualmente, trabalho com projetos pessoais de Ciência de Dados
@@ -34,18 +34,21 @@ src="https://github.com/kedimo-cd/kedimo-cd/blob/main/img/google-datastudio-icon
  
        
 </div>
+ <img align="right" alt="r" height="350" width="300" 
+src="https://github.com/kedimo-cd/kedimo-cd/blob/main/img/avatar.png"/>
 
 <div align="lefth">
   <a href="https://github.com/kedimo-cd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kedimo-cd&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true"/>
      <br> 
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedimo-cd&layout=compact&langs_count=7&theme=flag-india"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedimo-cd&layout=compact&langs_count=7&theme=flag-india"/>
     
   <br> 
-    
+       
  
   <a href="https://www.linkedin.com/in/kédimo-alcântara-4371ab234" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     </div>
     <br> 
     
+
     
