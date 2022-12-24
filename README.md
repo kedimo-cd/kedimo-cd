@@ -3,7 +3,7 @@
 
 ### Sobre Mim
 
-Meu nome é **Kédimo Alcântara**
+Meu nome é **Kédimo Alcântara**,
 Sou Cientista de Dados, apaixonado por resolver problemas de negócio usando meus conhecimentos de Negócio, estatística e programação.
 Atualmente, trabalho com projetos pessoais de Ciência de Dados
 para adquirir experiência na solução de problemas de negócio 
