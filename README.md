@@ -22,9 +22,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"/>
   <img align="center" alt="sql" height="60" width="70"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img align="center" alt="r" height="50" width="60" 
+  <img align="center" alt="r" height="45" width="55" 
 src="https://github.com/kedimo-cd/kedimo-cd/blob/main/img/microsoft-excel-icon.svg"/>
-   <img align="center" alt="r" height="50" width="60" 
+   <img align="center" alt="r" height="45" width="55" 
 src="https://github.com/kedimo-cd/kedimo-cd/blob/main/img/google-datastudio-icon.svg"/>
   
 ### Estou aprendendo
