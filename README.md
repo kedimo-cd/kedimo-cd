@@ -1,4 +1,4 @@
-<h2 align="center">  Seja Bem Vindo(a)! ao Meu Portifólio de Ciência de Dados! 👋🏼  </h2>
+<h2 align="center">  Seja Bem Vindo(a)! ao Meu Repositório de Ciência de Dados! 👋🏼  </h2>
 
 
 ### Sobre Mim
