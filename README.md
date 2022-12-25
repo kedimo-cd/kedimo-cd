@@ -9,8 +9,8 @@ Atualmente, trabalho com projetos pessoais de Ciência de Dados
 para adquirir experiência na solução de problemas de negócio 
 e domínio sobre as ferramentas de análise de dados.
 
-
 ### Skills
+##
 
 <div>
   <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -28,27 +28,34 @@ src="https://github.com/kedimo-cd/kedimo-cd/blob/main/img/microsoft-excel-icon.s
 src="https://github.com/kedimo-cd/kedimo-cd/blob/main/img/google-datastudio-icon.svg"/>
   
 ### Estou aprendendo
-
-<img src="https://github.com/kedimo-cd/kedimo-cd/blob/main/img/aws-icon.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+##
 
  
-       
+<img src="https://github.com/kedimo-cd/kedimo-cd/blob/main/img/aws-icon.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>   
+ 
+ ### Estatísticas
+ ##
 </div>
- <img align="right" alt="r" height="350" width="300" 
-src="https://github.com/kedimo-cd/kedimo-cd/blob/main/img/avatar.png"/>
+ <img align="right" alt="r" height="300" width="160" 
+src="https://github.com/kedimo-cd/kedimo-cd/blob/main/img/avatar_ked.png"/>
 
 <div align="lefth">
   <a href="https://github.com/kedimo-cd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kedimo-cd&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kedimo-cd&show_icons=true&theme=radical-india&include_all_commits=true&count_private=true"/>
      <br> 
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedimo-cd&layout=compact&langs_count=7&theme=flag-india"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedimo-cd&layout=compact&langs_count=7&theme=radical-india"/>
     
+   ### Fique à vontade para entrar em contato comigo:
+   ##
   <br> 
-       
+   
  
   <a href="https://www.linkedin.com/in/kédimo-alcântara-4371ab234" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://api.whatsapp.com/send?phone=5561995704602" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
     </div>
     <br> 
+ 
+
     
 
     
