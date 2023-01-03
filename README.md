@@ -26,6 +26,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original
 src="https://github.com/kedimo-cd/kedimo-cd/blob/main/img/microsoft-excel-icon.svg"/>
    <img align="center" alt="r" height="45" width="55" 
 src="https://github.com/kedimo-cd/kedimo-cd/blob/main/img/google-datastudio-icon.svg"/>
+   <img align="center" alt="r" height="45" width="55" 
+src="https://github.com/kedimo-cd/kedimo-cd/blob/main/img/BI.png"/>
   
 ### Estou aprendendo
 ##
