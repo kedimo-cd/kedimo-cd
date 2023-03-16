@@ -53,7 +53,7 @@ src="https://github.com/kedimo-cd/kedimo-cd/blob/main/img/avatar_ked.png"/>
    
  
   <a href="https://www.linkedin.com/in/kédimo-alcântara-4371ab234" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://api.whatsapp.com/send?phone=5561995704602" target="_blank"><img src="
+  <a href="https://api.whatsapp.com/send?phone=5561994287046" target="_blank"><img src="
    badge&logo=whatsapp&logoColor=white" target="_blank"></a>
     </div>
     <br> 
