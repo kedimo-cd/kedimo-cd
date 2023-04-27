@@ -1,14 +1,5 @@
 <h2 align="center">  Seja Bem Vindo(a)! ao Meu Repositório de Ciência de Dados! 👋🏼  </h2>
 
-
-### Sobre Mim
- 
-Meu nome é **Kédimo Alcântara**,
-Sou Cientista de Dados, apaixonado por resolver problemas de negócio usando meus conhecimentos de Negócio, estatística e programação.
-Atualmente, trabalho com projetos pessoais de Ciência de Dados
-para adquirir experiência na solução de problemas de negócio 
-e domínio sobre as ferramentas de análise de dados.
-
 ### Skills
 ##
 
@@ -29,23 +20,14 @@ src="https://github.com/kedimo-cd/kedimo-cd/blob/main/img/google-datastudio-icon
    <img align="center" alt="r" height="45" width="55" 
 src="https://github.com/kedimo-cd/kedimo-cd/blob/main/img/BI.png"/>
   
-### Estou aprendendo
-##
-
- 
-<img src="https://github.com/kedimo-cd/kedimo-cd/blob/main/img/aws-icon.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>   
  
  ### Estatísticas
  ##
-</div>
- <img align="right" alt="r" height="300" width="160" 
-src="https://github.com/kedimo-cd/kedimo-cd/blob/main/img/avatar_ked.png"/>
 
-<div align="lefth">
   <a href="https://github.com/kedimo-cd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kedimo-cd&show_icons=true&theme=radical-india&include_all_commits=true&count_private=true"/>
      <br> 
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedimo-cd&layout=compact&langs_count=7&theme=radical-india"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedimo-cd&layout=compact&langs_count=7&theme=radical-india"/>
     
    ### Fique à vontade para entrar em contato comigo:
    ##
@@ -53,8 +35,6 @@ src="https://github.com/kedimo-cd/kedimo-cd/blob/main/img/avatar_ked.png"/>
    
  
   <a href="https://www.linkedin.com/in/kédimo-alcântara-4371ab234" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://api.whatsapp.com/send?phone=5561994287046" target="_blank"><img src="
-   badge&logo=whatsapp&logoColor=white" target="_blank"></a>
     </div>
     <br> 
  
